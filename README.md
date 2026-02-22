@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Sadab%20Ansari&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="G:\CODEMENIA\demo\src\main\resources\static\images\logo_rm_bg.png" />
 
   <h3>🌌 Software Engineer @ Nyxora Technology Pvt Ltd</h3>
   
