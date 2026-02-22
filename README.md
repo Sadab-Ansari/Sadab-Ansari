@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="G:\CODEMENIA\demo\src\main\resources\static\images\logo_rm_bg.png" />
+  <img src="G:\CO<img width="200" height="188" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/1c0bc31a-bb98-4659-9ffe-f13fcdac1aaa" />
+DEMENIA\demo\src\main\resources\static\images\logo_rm_bg.png" />
 
   <h3>🌌 Software Engineer @ Nyxora Technology Pvt Ltd</h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/shadab-ansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/shadab_112"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/shadab_112"><img ![Uploading logo-removebg-preview.png…]()
+src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="mailto:sadabansari451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
