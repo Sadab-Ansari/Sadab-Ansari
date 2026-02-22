@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="G:\CO<img width="200" height="188" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/1c0bc31a-bb98-4659-9ffe-f13fcdac1aaa" />
-DEMENIA\demo\src\main\resources\static\images\logo_rm_bg.png" />
-
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGij7J0BL69kQ/company-logo_200_200/B56ZjHJn.jHUAM-/0/1755687848386?e=2147483647&v=beta&t=_YwB95ExbtLzTfJlFFyuEKzCeah0gmh282Ge1FJwjlE" width="200" alt="Nyxora Tech Logo" />
   <h3>🌌 Software Engineer @ Nyxora Technology Pvt Ltd</h3>
   
   <p align="center">
