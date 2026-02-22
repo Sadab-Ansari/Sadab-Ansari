@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGij7J0BL69kQ/company-logo_200_200/B56ZjHJn.jHUAM-/0/1755687848386?e=2147483647&v=beta&t=_YwB95ExbtLzTfJlFFyuEKzCeah0gmh282Ge1FJwjlE" width="200" alt="Nyxora Tech Logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGij7J0BL69kQ/company-logo_200_200/B56ZjHJn.jHUAM-/0/1755687848386?e=2147483647&v=beta&t=_YwB95ExbtLzTfJlFFyuEKzCeah0gmh282Ge1FJwjlE" width="100" alt="Nyxora Tech Logo" />
   <h3>🌌 Software Engineer @ Nyxora Technology Pvt Ltd</h3>
   
   <p align="center">
