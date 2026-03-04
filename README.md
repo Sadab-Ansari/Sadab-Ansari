@@ -52,13 +52,15 @@ src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetc
 
 ### 📊 Engineering Metrics
 
+### 📊 Engineering Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadab-ansari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-ansari&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadab-Ansari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=60" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sadab-Ansari&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadab-ansari&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" width="60%" />
 </div>
 
 ---
