@@ -82,7 +82,7 @@
 ### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Engineering Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sadab-Ansari/Sadab-Ansari/main/activity.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Sadab-Ansari/Sadab-Ansari/main/activity.svg" width="35%" />
   <img src="https://streak-stats.demolab.com?user=Sadab-Ansari&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
