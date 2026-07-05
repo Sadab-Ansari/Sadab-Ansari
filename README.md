@@ -95,14 +95,6 @@
 </div>
 
 <br/>
-
-
-### <img src="https://api.iconify.design/mdi/language-cpp.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" />
-</div>
-<br/>
 ### <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Featured Professional Projects (Nyxora & Beyond)
 
 > *Highlighting my work in building scalable AI and web solutions.*
