@@ -12,6 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Languages
         uses: lowlighter/metrics@latest
         with:
@@ -21,7 +24,25 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_title: no
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_categories: yes, markup, data
           plugin_languages_colors: github
+          output_action: none
+
+      - name: Strip heading text from SVG
+        run: |
+          node -e "
+            const fs = require('fs');
+            let svg = fs.readFileSync('languages.svg', 'utf8');
+            svg = svg.replace(/<text[^>]*>[^<]*Languages<\/text>/g, '');
+            svg = svg.replace(/<tspan[^>]*>[^<]*Languages<\/tspan>/g, '');
+            fs.writeFileSync('languages.svg', svg);
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git diff --cached --quiet || git commit -m "chore: update languages.svg [Skip GitHub Action]"
+          git push
