@@ -1,11 +1,11 @@
 <div align="center">
-  
+
   <p align="center">
-    <a href="linkedin.com/in/sadab-ansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/shadab_112"><img ![Uploading logo-removebg-preview.png…]()
-src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/sadab-ansari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/Shadab_112"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="mailto:sadabansari451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+
 </div>
 
 ---
@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetc
 
 | Feature | Details |
 | :--- | :--- |
-| 🚀 **Current Role** | Full-Stack Developer at **Nyxora Technology** |
+| 🚀 **Current Role** | Full-Stack Developer at **MyHealthJourney PVT LTD** |
 | 🛠️ **Main Stack** | MERN (Mongo, Express, React, Node) + Python (FastAPI/Django) |
 | 🧠 **Focus Area** | AI-Powered Architectures & System Scalability |
 | 📈 **Current Goal** | Mastering Distributed Systems & Advanced DSA |
@@ -48,8 +48,6 @@ src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetc
 
 ---
 
-
-
 ### 📊 Engineering Metrics
 
 <div align="center">
@@ -63,7 +61,24 @@ src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetc
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadab-Ansari&theme=tokyo-night&hide_border=true" width="95%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadab-Ansari&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" />
+</div>
+
+---
+
 ### 📂 Featured Professional Projects (Nyxora & Beyond)
+
 > *Highlighting my work in building scalable AI and web solutions.*
 
 * **AI Integration Engine:** Developed real-time data processing pipelines using FastAPI.
