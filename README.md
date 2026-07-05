@@ -1,7 +1,7 @@
 <div align="center">
   
   <p align="center">
-    <a href="https://linkedin.com/in/shadab-ansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="linkedin.com/in/sadab-ansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/shadab_112"><img ![Uploading logo-removebg-preview.png…]()
 src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="mailto:sadabansari451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
