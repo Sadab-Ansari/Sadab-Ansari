@@ -95,6 +95,7 @@
 </div>
 
 <br/>
+
 ### <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Featured Professional Projects (Nyxora & Beyond)
 
 > *Highlighting my work in building scalable AI and web solutions.*
