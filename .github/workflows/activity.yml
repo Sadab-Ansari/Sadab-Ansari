@@ -1,5 +1,4 @@
 name: Profile Metrics - Activity
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,31 +6,22 @@ on:
   push:
     branches:
       - main
-
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Generate Activity
         uses: lowlighter/metrics@latest
         with:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: Sadab-Ansari
           template: classic
-
           base: activity, community, repositories
-
           config_timezone: Asia/Kolkata
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
           plugin_stars: yes
-
           plugin_lines: yes
