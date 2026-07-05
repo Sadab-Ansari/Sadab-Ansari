@@ -86,24 +86,22 @@
   <img src="https://streak-stats.demolab.com?user=Sadab-Ansari&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
+<br/>
+
+### 🍩 Language Breakdown — Bar & Donut
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=86400" width="46%" />
 </div>
 
 <br/>
 
-### 📈 Contribution Activity
+### 📈 Activity & Achievements
+<p align="center"><em>Self-generated daily via GitHub Actions — immune to third-party rate limits</em></p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadab-Ansari&theme=tokyo-night&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadab-Ansari&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" />
+  <img src="https://raw.githubusercontent.com/Sadab-Ansari/Sadab-Ansari/main/github-metrics.svg" width="95%" />
 </div>
 
 <br/>
