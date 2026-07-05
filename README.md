@@ -14,64 +14,64 @@
 
 <br/>
 
-### ⚡ Quick Overview
+### <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Quick Overview
 
 | Feature | Details |
 | :--- | :--- |
-| 🚀 **Current Role** | Full-Stack Developer at **MyHealthJourney PVT LTD** |
-| 🛠️ **Main Stack** | MERN & PERN (Mongo/Postgres, Express, React, Node) + Python (FastAPI/Django) |
-| ☁️ **DevOps** | Docker, Kubernetes, CI/CD, AWS, Nginx, Linux |
-| 🧠 **Languages** | C, C++, Python, Java, JavaScript, TypeScript |
-| 📈 **Current Goal** | Mastering Distributed Systems & Advanced DSA |
+| <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> **Current Role** | Full-Stack Developer at **MyHealthJourney PVT LTD** |
+| <img src="https://api.iconify.design/mdi/tools.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> **Main Stack** | MERN & PERN (Mongo/Postgres, Express, React, Node) + Python (FastAPI/Django) |
+| <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> **DevOps** | Docker, Kubernetes, CI/CD, AWS, Nginx, Linux |
+| <img src="https://api.iconify.design/mdi/code-braces.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> **Languages** | C, C++, Python, Java, JavaScript, TypeScript |
+| <img src="https://api.iconify.design/mdi/target-arrow.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> **Current Goal** | Mastering Distributed Systems & Advanced DSA |
 
 <br/>
 
-### 🚀 Tech Stack Matrix
+### <img src="https://api.iconify.design/mdi/layers-triple-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Tech Stack Matrix
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Languages</h4>
+      <h4><img src="https://api.iconify.design/mdi/code-tags.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Languages</h4>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php" />
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Frontend & UI/UX</h4>
+      <h4><img src="https://api.iconify.design/mdi/monitor.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Frontend & UI/UX</h4>
       <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma,html,css" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend (MERN)</h4>
+      <h4><img src="https://api.iconify.design/mdi/leaf.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Backend (MERN)</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
     </td>
     <td width="50%" valign="top">
-      <h4>🐘 Backend (PERN)</h4>
+      <h4><img src="https://api.iconify.design/mdi/elephant.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Backend (PERN)</h4>
       <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🐍 Python & Frameworks</h4>
+      <h4><img src="https://api.iconify.design/mdi/language-python.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Python & Frameworks</h4>
       <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
     </td>
     <td width="50%" valign="top">
-      <h4>🗄️ Databases</h4>
+      <h4><img src="https://api.iconify.design/mdi/database-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Databases</h4>
       <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>☁️ DevOps & Cloud</h4>
+      <h4><img src="https://api.iconify.design/mdi/cloud-sync-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> DevOps & Cloud</h4>
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,nginx,aws" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tools & OS</h4>
+      <h4><img src="https://api.iconify.design/mdi/wrench-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Tools & OS</h4>
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,bash" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧪 Other Tech</h4>
+      <h4><img src="https://api.iconify.design/mdi/flask-outline.svg?color=%2300d2ff" width="18" style="vertical-align:middle"/> Other Tech</h4>
       <img src="https://skillicons.dev/icons?i=matlab" />
     </td>
   </tr>
@@ -79,7 +79,7 @@
 
 <br/>
 
-### 📊 Engineering Metrics
+### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadab-Ansari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" width="48%" />
@@ -88,16 +88,15 @@
 
 <br/>
 
-### 🍩 Language Breakdown — Bar & Donut
+### <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=86400" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadab-Ansari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
 </div>
 
 <br/>
 
-### 📈 Activity & Achievements
+### <img src="https://api.iconify.design/mdi/trophy-award.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Activity & Achievements
 <p align="center"><em>Self-generated daily via GitHub Actions — immune to third-party rate limits</em></p>
 
 <div align="center">
@@ -106,7 +105,7 @@
 
 <br/>
 
-### 📂 Featured Professional Projects (Nyxora & Beyond)
+### <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Featured Professional Projects (Nyxora & Beyond)
 
 > *Highlighting my work in building scalable AI and web solutions.*
 
