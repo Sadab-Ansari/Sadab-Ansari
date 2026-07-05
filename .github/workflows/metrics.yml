@@ -26,7 +26,8 @@ jobs:
 
           user: Sadab-Ansari
           template: classic
-          base: header, activity, community, repositories, metadata
+
+          base: header, activity, community
 
           config_timezone: Asia/Kolkata
 
@@ -40,12 +41,12 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
 
           plugin_followup: yes
           plugin_followup_sections: repositories
 
           plugin_repositories: yes
-          plugin_repositories_featured: 4
 
           plugin_lines: yes
