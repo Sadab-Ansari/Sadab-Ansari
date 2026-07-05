@@ -1,0 +1,38 @@
+name: Profile Metrics - Overview
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: Sadab-Ansari
+          template: classic
+
+          base: header, activity, community, repositories
+
+          config_timezone: Asia/Kolkata
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_lines: yes
