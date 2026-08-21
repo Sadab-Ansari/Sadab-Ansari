@@ -123,6 +123,7 @@
 </p>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Sadab-Ansari/github-snake/gh-pages/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://Sadab-Ansari.github.io/github-snake/github-contribution-grid-snake.svg)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0077B5&height=100&section=footer" width="100%" />
