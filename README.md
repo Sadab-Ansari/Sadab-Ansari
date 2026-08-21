@@ -101,6 +101,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadab-Ansari&theme=tokyo-night&hide_border=true" width="95%" />
 </div>
+## 🐍 Contribution Snake
+
+![Snake animation](https://Sadab-Ansari.github.io/github-snake/github-contribution-grid-snake.svg)
+
 
 <br/>
 
@@ -121,9 +125,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadab-ansari&label=Digital%20Footprints&color=00d2ff&style=flat-square" />
 </p>
-## 🐍 Contribution Snake
-
-![Snake animation](https://Sadab-Ansari.github.io/github-snake/github-contribution-grid-snake.svg)
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0077B5&height=100&section=footer" width="100%" />
