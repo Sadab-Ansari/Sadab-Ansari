@@ -121,5 +121,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadab-ansari&label=Digital%20Footprints&color=00d2ff&style=flat-square" />
 </p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Sadab-Ansari/github-snake/gh-pages/dist/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0077B5&height=100&section=footer" width="100%" />
