@@ -101,16 +101,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadab-Ansari&theme=tokyo-night&hide_border=true" width="95%" />
 </div>
-<div align="center">
-
 <h2>🐍 Contribution Snake</h2>
 
-<div style="background-color:#0d1117; padding:20px; border-radius:12px;">
-
-<img src="https://Sadab-Ansari.github.io/github-snake/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
+<div align="center">
+  <img src="https://Sadab-Ansari.github.io/github-snake/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
