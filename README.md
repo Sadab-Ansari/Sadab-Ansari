@@ -87,6 +87,12 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sadab-Ansari/Sadab-Ansari/main/activity.svg" width="80%" />
+  
+</div>
+
+<br/>
 
 ### <img src="https://api.iconify.design/mdi/chart-donut.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Top Languages
 
