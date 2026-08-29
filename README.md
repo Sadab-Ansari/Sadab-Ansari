@@ -145,7 +145,7 @@ export default new SadabAnsari();
 
 <br/>
 
-### <img src="https://api.iconify.design/mdi/calendar-month-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Calendar
+### <img src="https://api.iconify.design/mdi/calendar-month-outline.svg?color=%2300d2ff" width="22" style="vertical-align:middle"/> Contributions Calendar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sadab-Ansari/Sadab-Ansari/main/activity.svg" width="50%" />
